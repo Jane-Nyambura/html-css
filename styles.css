@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(207, 82, 82);
+    max-width: 600px;
+    margin: auto;
+}
+
+.album {
+    margin-left: 200px;
+}
+
+.header {
+    text-align: center;
+}
